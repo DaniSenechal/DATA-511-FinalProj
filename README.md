@@ -17,7 +17,7 @@ install.packages("plyr")
 
 Download the data and read it in R by using the command:
 ```bash
-proj1 <- read.csv("your directory")
+proj3 <- read.csv("your directory")
 ```
 where "your directory" is the pathname of the data file.
 
